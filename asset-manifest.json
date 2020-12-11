@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bondsonauction/static/css/main.ebbae0d8.chunk.css",
+    "main.js": "/bondsonauction/static/js/main.24599d7b.chunk.js",
+    "main.js.map": "/bondsonauction/static/js/main.24599d7b.chunk.js.map",
+    "runtime-main.js": "/bondsonauction/static/js/runtime-main.14626eaf.js",
+    "runtime-main.js.map": "/bondsonauction/static/js/runtime-main.14626eaf.js.map",
+    "static/css/2.043b4d7f.chunk.css": "/bondsonauction/static/css/2.043b4d7f.chunk.css",
+    "static/js/2.b2ae292c.chunk.js": "/bondsonauction/static/js/2.b2ae292c.chunk.js",
+    "static/js/2.b2ae292c.chunk.js.map": "/bondsonauction/static/js/2.b2ae292c.chunk.js.map",
+    "index.html": "/bondsonauction/index.html",
+    "static/css/2.043b4d7f.chunk.css.map": "/bondsonauction/static/css/2.043b4d7f.chunk.css.map",
+    "static/css/main.ebbae0d8.chunk.css.map": "/bondsonauction/static/css/main.ebbae0d8.chunk.css.map",
+    "static/js/2.b2ae292c.chunk.js.LICENSE.txt": "/bondsonauction/static/js/2.b2ae292c.chunk.js.LICENSE.txt",
+    "static/media/Account.css": "/bondsonauction/static/media/blurry.8e874e0b.jpg",
+    "static/media/Home.css": "/bondsonauction/static/media/coins-1726618_1920.b5d4316b.jpg",
+    "static/media/customer-service.6c0872da.png": "/bondsonauction/static/media/customer-service.6c0872da.png",
+    "static/media/packing-list.db39af26.png": "/bondsonauction/static/media/packing-list.db39af26.png",
+    "static/media/userImage.e4ddcd37.png": "/bondsonauction/static/media/userImage.e4ddcd37.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14626eaf.js",
+    "static/css/2.043b4d7f.chunk.css",
+    "static/js/2.b2ae292c.chunk.js",
+    "static/css/main.ebbae0d8.chunk.css",
+    "static/js/main.24599d7b.chunk.js"
+  ]
+}
