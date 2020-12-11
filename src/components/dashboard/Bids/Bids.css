@@ -1,0 +1,31 @@
+.bids{
+    display: flex;
+}
+.bids__sidebar{
+    flex: 0.20;
+}
+.bids__body{
+    min-height: 100vw;
+    margin-left: 12rem;
+    background: url('../../images/blurry.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+@media screen and (max-width: 700px) {
+    .bids__sidebar {
+      flex: 0.1;
+    }
+    .bids__body{
+        margin-left: 3rem;  
+        background: url('../../images/blurry.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    .table{
+        max-width: 410px;
+    }
+}

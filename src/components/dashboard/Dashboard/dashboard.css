@@ -1,0 +1,51 @@
+.dashboard{
+    display: flex;
+}
+.dashboard__sidebar{
+    flex: 0.15;
+}
+.dashboard__body{
+    background: url('../../images/blurry.jpg')no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100%;
+    flex: 0.85;
+    min-height: 100vh;
+}
+@media screen and (max-width: 700px) {
+    .dashboard__sidebar {
+      flex: 0.1;
+    }
+    .dashboard__body{
+        margin-left: 1rem;  
+        background-image: url('../../images/blurry.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: 100%;
+        width: 100vw;
+        flex: 1;
+    }
+    .card-stats{
+        margin-bottom: 2rem;
+    }
+}
+@media  screen and (max-width: 1125) {
+    .dashboard__sidebar{
+      flex: 0.1;
+    }
+    .dashboard__body{
+        flex: 0.9;
+        margin-left: 5rem;  
+        background-image: url('../../images/blurry.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: 100%;
+        width: 100%;
+    }
+    .card-stats{
+        margin-bottom: 2rem;
+    }
+}
